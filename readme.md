@@ -2,12 +2,16 @@
 
 ![](DklBaseGraphics.jpg)
 Examples of base graphics include:
-Waterfall chart: 
+-Waterfall chart: 
 ![](WaterfallGraph.png)
-Clicked behavior:
+
+*Clicked behavior:
 ![](WaterfallGraphClicked.png)
-Bar chart:
+
+-Bar chart:
 ![](BarGraph1.png)
-Clicked behavior:
+
+*Clicked behavior:
 ![](BarGraphClicked.png)
+
 [Examples and Contributions](http://github.com/arce/DklBaseGraphics/wiki)
